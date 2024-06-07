@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**tpglitch/tpglitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ??? (Secret for right now)
+- 🌱 I’m currently learning NestJS
+- 👯 I’m looking to collaborate on nothing at the moment.
+- 🤔 I’m looking for help with nothing at the moment.
+- 💬 Ask me about nothing at the moment.
+- 📫 How to reach me: nothing at the moment.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: [1]
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[1] Test
