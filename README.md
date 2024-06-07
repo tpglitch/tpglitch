@@ -10,5 +10,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [1]
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devepation)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [1] Test
