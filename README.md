@@ -10,9 +10,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [1]
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpglitch)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devepation)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpglitch)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [1] Test
