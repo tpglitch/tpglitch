@@ -9,7 +9,6 @@
 - 📫 How to reach me: nothing at the moment.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [1]
--
 
 
 [1] Test
