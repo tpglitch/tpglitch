@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm `tpglitch`, a passionate developer who loves t
 
 ## 📫 Connect with Me
 
-- [X](https://twitter.com/tkinney50)
+- [BlueSky](https://bsky.app/profile/tpglit.ch)
 - [Personal Website](https://tpglit.ch)
 
 Thanks for visiting my profile! 😄
