@@ -57,8 +57,8 @@ Welcome to my GitHub profile! I'm a developer, builder, and digital explorer who
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=dotfiles&theme=radical" alt="Pinned Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=monorepo&theme=radical" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=PassGen&theme=radical" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=rs-fakebsod&theme=radical" alt="Pinned Repo" />
 </p>
 
 <p align="center">
