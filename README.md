@@ -4,6 +4,13 @@ Welcome to my GitHub profile! I'm a developer, builder, and digital explorer who
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=BatPU-2-Speedy&theme=radical" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=stride&theme=radical" alt="Pinned Repo" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🕹️ Currently working on **everything**
@@ -169,11 +176,6 @@ Welcome to my GitHub profile! I'm a developer, builder, and digital explorer who
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=PassGen&theme=radical" alt="Pinned Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tpglitch&repo=rs-fakebsod&theme=radical" alt="Pinned Repo" />
-</p>
-
-<p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=tpglitch&limit=5&theme=radical" alt="Contributor Stats" />
 </p>
 
@@ -207,3 +209,4 @@ Welcome to my GitHub profile! I'm a developer, builder, and digital explorer who
 ---
 
 _Thanks for scrolling all the way down. You must really like stats!_ 😄
+
