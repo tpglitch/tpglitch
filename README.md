@@ -6,7 +6,7 @@ Developer, builder, and digital explorer. I make stuff because I can, sometimes 
 
 ## 🚀 About Me
 - 🕹️ Always experimenting with new projects
-- 🌱 Learning **Svelte** & **Rust**
+- 🌱 Learning **Svelte** & **Rust** & **Java (i have to)**
 - 🦀 Pronouns: he/him
 
 ---
@@ -25,3 +25,4 @@ TypeScript, JavaScript, Rust, Svelte, React, Node.js, Python, Java (ew), C++, C#
 ## 📫 Connect
 - 🌀 [BlueSky](https://bsky.app/profile/tpglit.ch)  
 - 🌐 [Website](https://tpglit.ch)
+
